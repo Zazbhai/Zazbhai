@@ -1,7 +1,7 @@
 # Hello, I am Zaz<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 
 
-# 💫 About Me:
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me:
 🍂 Can Understand Machine Code<br>🎁 Expert In Python<br>🎗 CSE Student<br>🎳 Deep Learning<br>🌏 Looking For Collabrations
 
 
