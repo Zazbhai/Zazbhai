@@ -15,7 +15,6 @@ I Use Arch Btw!
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
   ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
-  
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
   <br>
   <br>
