@@ -6,7 +6,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaz_bhai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaz-yagmi) ### <img src="https://media4.giphy.com/media/ropITlfdDUN88W58GY/giphy.gif?cid=6c09b952ueudfz0qhqb280tlcy9g7csmpj3lm3qvly7e3amt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50"> Linux Enthusiast
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaz_bhai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaz-yagmi)
+<br>
+### <img src="https://media4.giphy.com/media/ropITlfdDUN88W58GY/giphy.gif?cid=6c09b952ueudfz0qhqb280tlcy9g7csmpj3lm3qvly7e3amt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="50"> Linux Enthusiast
   
 I Use Arch Btw!
   
