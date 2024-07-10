@@ -1,6 +1,6 @@
 # Hello, I am Zaz<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 
-<a href="https://github.com/Zazbhai/Profile-Readme-WakaTime"><img src="https://github.com/Zazbhai/Zazbhai/blob/main/images/stat.svg" alt="Zaz Activity" align=center/></a>
+
 # 💫 About Me:
 🍂 Can Understand Machine Code<br>🎁 Expert In Python<br>🎗 CSE Student<br>🎳 Deep Learning<br>🌏 Looking For Collabrations
 
