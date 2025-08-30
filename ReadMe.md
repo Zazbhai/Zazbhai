@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaz-yagmi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaz-yagmi) 
 <br>
 &nbsp; &nbsp;<img src="https://media1.giphy.com/media/UVvJCoqeVDnUjv3vAM/giphy.gif?cid=6c09b9527feg880c0rei16xg9xmcvy2415vl27iqtei7f90z&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="80">
 <br>
